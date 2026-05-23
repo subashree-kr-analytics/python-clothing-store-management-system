@@ -27,7 +27,32 @@ It helps to manage clothing shop operations like adding products, viewing availa
 
 ## 📸 Project Preview
 
-👉 (இங்கே உன் screenshot வரும்)
-
-```md
 ![Clothing Store System](images/screenshot.png)
+
+---
+
+## 🚀 How to Run
+
+1. Install Python (if not installed)
+2. Open terminal or command prompt
+3. Navigate to project folder
+4. Run the program:
+
+```bash
+python main.py
+```
+
+## 📁 Project Structure
+
+- main.py → Main application file
+- README.md → Project documentation
+- images/ → Screenshots folder
+
+
+⭐ Note
+
+This is a beginner-level Python project created for learning inventory and basic management system concepts.
+
+
+
+
